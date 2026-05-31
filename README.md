@@ -36,7 +36,7 @@ Ball_Sort_Puzzle/
 │   │   ├── TADJuego.h / .cpp    # TAD Juego: lógica, movimientos y puntuación
 │   │   ├── entorno.h / .cpp     # Renderizado gráfico con Allegro 5
 │   │   ├── prPila.h / .cpp      # Pruebas del TAD Pila
-│   │   ├── prTablero.h / .cpp   # Pruebas del TAD Tablero
+│   │   └── prTablero.h / .cpp   # Pruebas del TAD Tablero
 │   ├── ballSort.cnf         # Nivel base (4 colores, 2 pilas vacías, 4 bolas/pila)
 │   ├── ballSort4.cnf        # Nivel 4 pilas
 │   ├── ballSort5.cnf        # Nivel 5 pilas
@@ -128,4 +128,10 @@ Abre un Pull Request describiendo tus mejoras.
 
 ---
 
-Proyecto de Programación – Sergio Orgaz Bravo
+<p align="center">
+  <img src="https://www.unex.es/conoce-la-uex/componentes/identidad-corporativa/archivos/LogoUEX.png/@@images/image" alt="Universidad de Extremadura" height="50"/>
+  <br/><br/>
+  <strong>Introducción a la Programación (IP)</strong> · Grado en Ingeniería Informática · Universidad de Extremadura
+  <br/>
+  Sergio Orgaz Bravo
+</p>
