@@ -129,7 +129,7 @@ Abre un Pull Request describiendo tus mejoras.
 ---
 
 <p align="center">
-  <img src="https://www.unex.es/conoce-la-uex/componentes/identidad-corporativa/archivos/LogoUEX.png/@@images/image" alt="Universidad de Extremadura" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/UNEX.png" alt="Universidad de Extremadura" height="80"/>
   <br/><br/>
   <strong>Introducción a la Programación (IP)</strong> · Grado en Ingeniería Informática · Universidad de Extremadura
   <br/>
